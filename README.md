@@ -1,6 +1,6 @@
 <p align="center"><img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
-### Hi, I am Deepak Mathews Koshy
+# Hi, I am Deepak Mathews Koshy
 
 - 🌱 I’m currently learning App development using Flutter
 
