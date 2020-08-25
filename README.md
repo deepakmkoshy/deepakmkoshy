@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
+<p align="center"><img align="center" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 # Hi, I am Deepak Mathews Koshy
 
@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on interesting Flutter projects
 
 - 📫 How to reach me: <a href="mailto:deepakmkoshy@gmail.com">Email Me</a>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/DeepakKoshy301?style=social)](https://twitter.com/DeepakKoshy301)
 
 ## Connect with me:
 <p>
