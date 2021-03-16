@@ -2,20 +2,23 @@
 
 # Hi, I am Deepak Mathews Koshy
 
-- 🌱 I’m currently learning App development using Flutter
+- 🔭 I’m currently working on App development using Flutter
 
-- 👯 I’m looking to collaborate on interesting Flutter projects
+- 🌱 I’m currently learning Node.js
+
+- 👯 I’m looking to collaborate on interesting Flutter and Node.js projects
 
 - 📫 How to reach me: <a href="mailto:deepakmkoshy@gmail.com">Email Me</a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeepakKoshy301?style=social)](https://twitter.com/DeepakKoshy301)
-
 ## Connect with me:
-<p>
-<a href="https://twitter.com/DeepakKoshy301"> <img src="https://img.icons8.com/fluent/35/000000/twitter.png"/></a> &nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/deepakmkoshy
-  "><img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/deepakmkoshy/"><img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/></a>
 
-</p>
+[![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://www.linkedin.com/in/deepakmkoshy/)
+[![](https://img.shields.io/badge/@deepakmkoshy-Instagram-Blue?style=for-the-badge&logo=instagram&color=DD2A7B)](https://www.instagram.com/deepakmkoshy/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DeepakKoshy301?color=08a0e9&logo=twitter&style=for-the-badge)](https://twitter.com/DeepakKoshy301)
+
+## Github Stats
+[![](https://github-readme-stats.vercel.app/api?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/deepakmkoshy)
 <!--
 **deepakmkoshy/deepakmkoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
