@@ -17,7 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepakKoshy301?color=08a0e9&logo=twitter&style=for-the-badge)](https://twitter.com/DeepakKoshy301)
 
 ## Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]
+[![Stats](https://github-readme-stats.vercel.app/api?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/deepakmkoshy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/deepakmkoshy)
 <!--
 **deepakmkoshy/deepakmkoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
