@@ -2,9 +2,9 @@
 
 # Hi, I am Deepak Mathews Koshy
 
-- 🔭 I’m currently working on App development using Flutter
+- 🔭 I’m currently working on App development using Flutter, backend development with Python FastAPI
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js
 
 - 👯 I’m looking to collaborate on interesting Flutter and Node.js projects
 
